@@ -57,7 +57,6 @@ Both should be added **locally** to your iOS project (not through CocoaPods or S
 ## 🧠 Notes
 - This build is based on the official Jitsi Meet iOS SDK with minor audio configuration changes.  
 - All copyrights and trademarks belong to **Jitsi / 8x8, Inc.**  
-- This repository is provided **for educational and development purposes only**.
 
 ---
 
